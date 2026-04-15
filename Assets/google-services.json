@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590171110520",
+    "project_id": "juego2-c2cc3",
+    "storage_bucket": "juego2-c2cc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590171110520:android:db684f8003e6f5a7d2c18d",
+        "android_client_info": {
+          "package_name": "com.OmarTech.Monkee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxcM1Wi7buJFhStiDvKry-9drly2lz27g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
